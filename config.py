@@ -12,7 +12,7 @@ admin_user = '@login'
 
 emil_transection = 'yarikolesnik@ukr.net'
 
-admin_id = [737134912]
+admin_id = [2058438412]
 
 paytm_gray_phonese = '@tradety_deposit'
 

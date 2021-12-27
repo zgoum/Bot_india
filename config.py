@@ -8,7 +8,7 @@ api_private_key = '3389b2aaDA196091eBEabf674A157D0Ee931640e2643fb73bE6723C8Bc44F
 
 DIR = 'admin_panel/admin/'
 
-admin_user = '@login'
+admin_user = '@jwnwvj'
 
 emil_transection = 'yarikolesnik@ukr.net'
 
